@@ -195,6 +195,7 @@
 				TargetAttributes = {
 					09E068421D265DDF0002566B = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 2V3EYA7Y7S;
 					};
 				};
 			};
@@ -362,6 +363,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = 2V3EYA7Y7S;
 				INFOPLIST_FILE = CGContextRef/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cn.ssic.CGContextRef;
@@ -374,6 +376,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = 2V3EYA7Y7S;
 				INFOPLIST_FILE = CGContextRef/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cn.ssic.CGContextRef;
@@ -400,6 +403,7 @@
 				09E0685C1D265DDF0002566B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
